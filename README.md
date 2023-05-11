@@ -1,1 +1,1 @@
-# nuxtProjecs
+# nuxtProjects
